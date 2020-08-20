@@ -1,0 +1,15 @@
+@import './_components/book';
+@import './_components/page_flip';
+.App {
+  min-height: 100vh;
+  max-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #1b1507;
+  overflow: hidden;
+}
+
+p {
+  margin: 0;
+}
